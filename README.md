@@ -1,5 +1,5 @@
 # SuperID Gerenciador de autenticações
-O SuperId é um splicativo Android nativo, desenvolvido em Kotlin, o aplicativo permite o gerenciamento seguro das senhas e autenticação sem senha em sites parceiros por meio de QR Codes e integração com o Firebase.
+O SuperId é um aplicativo Android nativo, desenvolvido em Kotlin, o aplicativo permite o gerenciamento seguro das senhas e autenticação sem senha em sites parceiros por meio de QR Codes e integração com o Firebase.
 
 ## 🚀 Tecnologias
 
